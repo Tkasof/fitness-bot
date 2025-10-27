@@ -20,6 +20,3 @@ cd fitness-bot
 python3 -m venv venv
 source venv/bin/activate
 
-## Запуск
-```bash
-python3 bot.py

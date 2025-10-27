@@ -13,15 +13,13 @@
 - Python 3.6 или выше
 - Дополнительные библиотеки не требуются
 
-## Запуск
-```bash
-python3 bot.py
-```
-
 ## Установка
 ```bash
 git clone https://github.com/Tkasof/fitness-bot.git
 cd fitness-bot
 python3 -m venv venv
 source venv/bin/activate
-
+```
+## Запуск
+```bash
+python3 bot.py

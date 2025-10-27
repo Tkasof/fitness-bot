@@ -13,6 +13,9 @@
 - Python 3.6 или выше
 - Дополнительные библиотеки не требуются
 
+## Запуск
+python3 bot.py
+
 ## Установка
 ```bash
 git clone https://github.com/Tkasof/fitness-bot.git

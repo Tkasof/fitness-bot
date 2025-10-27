@@ -23,3 +23,6 @@ source venv/bin/activate
 ## Запуск
 ```bash
 python3 bot.py
+```
+## Автор
+Ткачева Софья
